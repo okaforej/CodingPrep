@@ -1,0 +1,88 @@
+Leetcode Strings 
+
+7/21/2020
+1.) https://leetcode.com/problems/reverse-string/     
+https://leetcode.com/articles/reverse-string/
+
+2.) https://leetcode.com/problems/split-a-string-in-balanced-strings/
+https://thecodingbot.com/leetcode-1221-split-a-string-in-balanced-strings/
+
+3.) https://leetcode.com/problems/string-compression/
+https://massivealgorithms.blogspot.com/2019/04/leetcode-443-string-compression.html
+
+4.) https://leetcode.com/problems/reverse-vowels-of-a-string/
+https://www.programmersought.com/article/2796493794/
+
+5.) https://leetcode.com/problems/di-string-match/
+https://leetcode.com/articles/di-string-match/#
+
+
+7/22/2020
+1.) https://leetcode.com/problems/string-matching-in-an-array/
+https://leetcode.com/problems/string-matching-in-an-array/discuss/577288/java-solution-on2-stringcontains
+
+2.) https://leetcode.com/problems/reverse-words-in-a-string-iii/
+https://nifannn.github.io/2018/10/01/Algorithm-Notes-Leetcode-557-Reverse-Words-in-a-String-III/
+OR https://leetcode.com/problems/reverse-words-in-a-string-iii/solution/
+
+3.) https://leetcode.com/problems/reverse-string-ii/
+https://leetcode.com/articles/reverse-string-ii/
+
+4.) https://leetcode.com/problems/add-strings/
+https://www.programmersought.com/article/475948793/
+
+5.) https://leetcode.com/problems/first-unique-character-in-a-string/
+http://www.goodtecher.com/leetcode-387-first-unique-character-in-a-string/
+
+
+7/23/2020
+1.) https://leetcode.com/problems/sort-characters-by-frequency/
+https://leetcode.com/problems/sort-characters-by-frequency/discuss/93420/java-on-bucket-sort-solution-onlogm-priorityqueue-solution-easy-to-understand
+
+2.) https://leetcode.com/problems/greatest-common-divisor-of-strings/
+http://www.leetcode-solution.com/2019/06/01/1146-greatest-common-divisor-of-strings.html
+
+3.) https://leetcode.com/problems/reformat-the-string/
+https://leetcode.com/problems/reformat-the-string/discuss/626775/Java-solution-using-stringbuilder-with-brief-comment
+
+4.) https://leetcode.com/problems/add-to-array-form-of-integer/
+https://gist.github.com/yitonghe00/dd677bee1dc1b3ff4ffab4319ad98f2a
+5.) https://leetcode.com/problems/most-common-word/
+https://leetcode.com/problems/most-common-word/solution/
+
+
+7/24/2020
+1.) https://leetcode.com/problems/permutation-in-string/
+https://thefellowprogrammer.blogspot.com/2020/07/permutation-in-string.html
+
+2.) https://leetcode.com/problems/find-all-anagrams-in-a-string/
+https://github.com/Algorithms-Made-Easy/May-Leetcoding-Challenge/blob/master/Day17-FindAnagramInAString.java
+And https://www.youtube.com/watch?v=54xCKwmtpLg
+
+3.) https://leetcode.com/problems/plus-one/
+https://codereview.stackexchange.com/questions/43343/add-one-to-a-number-represented-as-an-array-of-digits 
+OR
+https://leetcode.com/problems/plus-one/discuss/723126/Java-easiest-solution-best-case-O(1)-time-and-space-with-easiest-explaination
+
+4.) https://leetcode.com/problems/add-binary/
+https://leetcode.com/problems/add-binary/discuss/745334/Easy-Clear-JAVA-solution
+
+5.) https://leetcode.com/problems/valid-anagram/
+https://tinyfool.org/2019/07/leetcode-242-valid-anagram-sort-java/
+
+
+8/3/2020
+1.) https://leetcode.com/problems/squares-of-a-sorted-array/
+https://medium.com/@saurav.agg19/squares-of-a-sorted-array-4db620c15028
+
+2.) https://leetcode.com/problems/merge-sorted-array/
+https://www.programcreek.com/2012/12/leetcode-merge-sorted-array-java/
+
+3.) https://leetcode.com/problems/peak-index-in-a-mountain-array/
+https://aaronice.gitbook.io/lintcode/binary-search/peak-index-in-a-mountain-array OR https://www.tutorialcup.com/interview/array/peak-index-in-a-mountain-array.htm
+
+4.) https://leetcode.com/problems/find-peak-element/
+https://medium.com/@dreamume/leetcode-162-find-peak-element-cc780b9cf5b4
+
+5.) https://leetcode.com/problems/merge-two-sorted-lists/
+https://www.programcreek.com/2012/12/leetcode-merge-two-sorted-lists-java/
